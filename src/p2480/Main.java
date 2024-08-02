@@ -16,7 +16,7 @@ public class Main {
 
     private static int process(String[] dices){
         int counted = count(dices);
-        Integer parsedInt = Integer.parseInt(dices[0]);
+        int parsedInt = Integer.parseInt(dices[0]);
         int result = 0;
         switch (counted) {
             case -1:
