@@ -29,6 +29,7 @@ public class Main {
                 bw.write(students[i] + " ");
             }
         }
+
         br.close();
         bw.close();
     }
