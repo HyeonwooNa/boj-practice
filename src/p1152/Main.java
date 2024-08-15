@@ -1,5 +1,5 @@
 package p1152;
-// 이유를 모르겠다.
+
 import java.io.*;
 import java.util.StringTokenizer;
 
